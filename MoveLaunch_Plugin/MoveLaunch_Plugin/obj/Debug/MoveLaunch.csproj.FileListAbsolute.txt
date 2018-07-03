@@ -1,0 +1,18 @@
+C:\Users\Black Ops\Desktop\MODS 1.4.3\LSC\LSC_Plugin\obj\Debug\MoveLaunch.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\LSC\LSC_Plugin\obj\Debug\MoveLaunch.csproj.CoreCompileInputs.cache
+C:\obj\Debug\MoveLaunch.dll
+C:\obj\Debug\MoveLaunch.pdb
+C:\Users\Black Ops\Desktop\MODS 1.4.3\LSC\LSC_Plugin\obj\Debug\MoveLaunch.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\LSC\LSC_Plugin\obj\Debug\MoveLaunch.pdb
+C:\Users\Black Ops\Desktop\MODS 1.4.3\MoveLaunch\MoveLaunch_Plugin\obj\Debug\MoveLaunch.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\MoveLaunch\MoveLaunch_Plugin\obj\Debug\MoveLaunch.csproj.CoreCompileInputs.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\MoveLaunch\MoveLaunch_Plugin\obj\Debug\MoveLaunch.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\MoveLaunch\MoveLaunch_Plugin\obj\Debug\MoveLaunch.pdb
+C:\Users\Black Ops\Desktop\MODS 1.4.3\DMLaunch\MoveLaunch_Plugin\MoveLaunch_Plugin\obj\Debug\MoveLaunch.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\DMLaunch\MoveLaunch_Plugin\MoveLaunch_Plugin\obj\Debug\MoveLaunch.csproj.CoreCompileInputs.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\DMLaunch\MoveLaunch_Plugin\MoveLaunch_Plugin\obj\Debug\MoveLaunch.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\DMLaunch\MoveLaunch_Plugin\MoveLaunch_Plugin\obj\Debug\MoveLaunch.pdb
+C:\Users\Black Ops\Desktop\MODS 1.4.3\MoveLaunch\MoveLaunch_Plugin\MoveLaunch_Plugin\obj\Debug\MoveLaunch.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\MoveLaunch\MoveLaunch_Plugin\MoveLaunch_Plugin\obj\Debug\MoveLaunch.csproj.CoreCompileInputs.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\MoveLaunch\MoveLaunch_Plugin\MoveLaunch_Plugin\obj\Debug\MoveLaunch.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\MoveLaunch\MoveLaunch_Plugin\MoveLaunch_Plugin\obj\Debug\MoveLaunch.pdb
